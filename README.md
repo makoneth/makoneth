@@ -14,9 +14,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-  ![github stats](https://github-readme-stats.makoneth.vercel.app/api?username=makoneth&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
-</p>
+![github stats](https://github-readme-stats.makoneth.vercel.app/api?username=makoneth&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
 
 **Talking about Personal Stuffs:**
 
