@@ -14,7 +14,9 @@
   </a>&nbsp;&nbsp;
 </p>
 
-![github stats](https://github-readme-stats.makoneth.vercel.app/api?username=makoneth&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.makoneth.vercel.app/api?username=makoneth&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" width="350"></a>
+</p>
 
 **Talking about Personal Stuffs:**
 
@@ -24,8 +26,10 @@
 
 **Languages and Tools:** 
 
-<img align="right" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img align="right" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
+<p align='center'>
+  <img align="right" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img align="right" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img align="right" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
+  <img align="right" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
+  <img align="right" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />&nbsp;&nbsp;
+</p>
