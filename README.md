@@ -26,7 +26,7 @@
 
 **Languages and Tools:** 
 
-<p align='center'>
+<p align='left'>
   <a href="#">
     <img align="right" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   </a>&nbsp;&nbsp;
