@@ -17,10 +17,6 @@
   <a href="#"><img src="https://github-readme-stats.makoneth.vercel.app/api?username=makoneth&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" width="350"></a>
 </p>
 
-<p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=makoneth" alt="makoneth" /> hipsters and nerds come here o/
-</p>
-
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on [Gluo](https://www.gluo.mx)
