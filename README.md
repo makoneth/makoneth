@@ -5,16 +5,9 @@
   <a href="https://www.linkedin.com/in/juan-pablo-sotelo-g/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/makone_th/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
 </p>
 
 **Talking about Personal Stuffs:**
-
-- 🔭 I’m currently work in [N+](https://nmas.com.mx)
-
-- 🌱 I’m currently learning Dart and Flutter  
 
 - 🎮 My tech stack is JavaScript, so i can use any framework
 
@@ -31,17 +24,6 @@
 <p align='center'>
   <img src="https://github-readme-stats.makoneth.vercel.app/api/wakatime?username=makoneth" width="350">
 </p>
-
-## 💰 You can help me by Donating
-<p>
-  <a href="https://www.buymeacoffee.com/jsotelo">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jsotelo" />
-  </a>
-  <a href="https://ko-fi.com/jsotelo">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jsotelo" />
-  </a>
-</p>
-<br><br>
 
 ###
 
